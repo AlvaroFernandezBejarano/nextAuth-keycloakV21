@@ -10,6 +10,8 @@ This demo has too the logout redirect fixed for keycloak v21+!
 
 # &#x1F4BB; Deploy
 
+
+
 ## Requirements
 
 Developed & tested on:
@@ -20,6 +22,8 @@ Developed & tested on:
 - docker-compose v1.27.4
 
 I sneaked [BulmaCSS](https://bulma.io/) on the project because it's simple, light and is one of my favorites CSS frameworks. I would recommend you to check it out!
+
+
 
 ## Deployment
 
@@ -59,6 +63,8 @@ If you reuquire access to keycloak:
 
 For log in on the next app, lets continue to features
 
+
+
 # &#x1F3C6; Features
 
 This example/demo features a next.js app that serves:
@@ -78,11 +84,14 @@ You have `usera` & `userb`, both with password `password`.
 See my [next-auth](nextauth-keycloak/pages/api/auth/[...nextauth].ts), alredy left some hints on how to adapt it to other types of roles (the schema of the expected JWT will be different so you need to adapt it!)
 
 
+
+
 ## &#x1F41B; Debugging
 
 I let some `console.log` on the next.js app server side where you can check what info from your JWT token you recive & work.
 
 And I commented usefull things on code if you dig into the code!
+
 
 
 
