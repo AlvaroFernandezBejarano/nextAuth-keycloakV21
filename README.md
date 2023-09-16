@@ -90,7 +90,7 @@ See my [next-auth](nextauth-keycloak/pages/api/auth/[...nextauth].ts), alredy le
 
 I let some `console.log` on the next.js app server side where you can check what info from your JWT token you recive & work.
 
-And I commented usefull things on code if you dig into the code!
+And I commented usefull things on code if you dig into it!
 
 
 
