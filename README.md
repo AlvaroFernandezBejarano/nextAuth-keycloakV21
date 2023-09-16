@@ -10,7 +10,9 @@ This demo has too the logout redirect fixed for keycloak v21+!
 
 # &#x1F4BB; Deploy
 
-
+The components in this demo are:
+1. Next.js (deployed locally)
+2. Keycloak (deployed in docker container)
 
 ## Requirements
 
