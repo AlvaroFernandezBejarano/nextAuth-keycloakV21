@@ -100,5 +100,5 @@ And I commented usefull things on code if you dig into it!
 ## &#x1F914; Who are you?
 
 Nice question! I'm a DevOps fullstack on the IoT sector and I'm looking for new oportunities!
-Check my profile & maybe connect with me on [linkedin](www.linkedin.com/in/álvaro-fernández-bejarano-0ba827182)!
+Check my profile & maybe connect with me on [linkedin](https://www.linkedin.com/in/álvaro-fernández-bejarano-0ba827182)!
 
